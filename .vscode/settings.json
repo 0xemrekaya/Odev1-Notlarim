@@ -1,0 +1,8 @@
+{
+    "dart.lineLength": 150,
+    "dart.maxLogLineLength": 2000,
+    "html.format.wrapLineLength": 12000,
+    "less.format.newlineBetweenRules": true,
+    "less.format.newlineBetweenSelectors": true,
+    "less.format.preserveNewLines": true
+}
